@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheGameFirm]]></title>
+        <description><![CDATA[TheGameFirm]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 02:49:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ideation]]></title>
+            <description><![CDATA[<article><h1>Ideation</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec5f9f73c7e4cd7c9ae2da12815eee7538b31590.jpg"></article>]]></description>
+            <link>undefinedideation/index.html</link>
+            <guid isPermaLink="false">791227a7-fb67-4a17-9edd-e89e573e7ce1</guid>
+            <pubDate>Thu, 03 Mar 2016 02:49:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
