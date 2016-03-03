@@ -1,4 +1,4 @@
-name: TheGameFirm
+name: The Game Firm
 favicon: null
 layout_spectrum: 0.25233
 typography_spectrum: 0.10493
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#020202'
+    - '#ffffff'
+    - '#6d6d6d'
+    - '#bfbfbf'
+    - '#414141'
   brandStrength: 0
-  lightness: 0.6354934382252395
-  saturation: 0.3896283416543156
-  rhythmicContrast: 0.6654384015128016
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
