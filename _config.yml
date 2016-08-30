@@ -1,4 +1,3 @@
-layout_spectrum: 0.9355884999968112
 typography_spectrum: 0.607991725904867
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9355884999968112
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Consulting
+    id: 596edbd9-8f4f-42e5-aced-9a796991d437
+    type: content
 favicon: null
 title: 'The Game Firm • Houston, TX '
 description: Interactive Design and Ideation
