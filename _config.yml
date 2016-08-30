@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba66df36-5963-468e-a1ea-7eb12898fb35.png
 name: The Game Firm
 cta:
   domain: null
@@ -28,7 +30,8 @@ navigation:
   - name: INTERACTIVE IDEATION AND DESIGN
     id: 596edbd9-8f4f-42e5-aced-9a796991d437
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ea416af-a8e8-4881-b64c-245af46f479e.png
 title: 'The Game Firm • Houston, TX '
 description: Interactive Design and Ideation
 purpose: []
