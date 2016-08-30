@@ -1,21 +1,21 @@
 ---
+datePublished: '2016-08-28T19:46:30.820Z'
+sourcePath: _posts/2016-08-28-consulting.md
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
+isBasedOnUrl: null
+authors: []
+hasPage: false
 keywords: []
-description: ''
-datePublished: '2016-08-28T18:59:51.456Z'
-dateModified: '2016-08-28T18:59:51.187Z'
-title: Consulting
 author: []
 via: {}
-sourcePath: _posts/2016-08-28-consulting.md
-authors: []
+dateModified: '2016-08-28T19:46:30.503Z'
+title: ''
 publisher: {}
+description: GAMES • APPS • INTERACTIVE MEDIA
+inLanguage: null
+inNav: false
 starred: false
-url: consulting/index.html
-_type: Article
+_type: Blurb
 
 ---
-# Consulting
+**GAMES • APPS • INTERACTIVE MEDIA**
